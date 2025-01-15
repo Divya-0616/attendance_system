@@ -183,6 +183,7 @@ Step 10: when the database is connected, place the files in directory of the pro
 
 Step11: Then a create a main file in the pycharm as "main.py" and run the code
 
+
 Code:
 import cv2
 import numpy as np
