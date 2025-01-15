@@ -96,6 +96,8 @@ Step4:Click on image model
 ![Screenshot 2025-01-09 234950](https://github.com/user-attachments/assets/856f23d6-96f7-46d2-ae30-53bf4631927f)
 
 Step5: Click on Standard image option
+
+
 ![Screenshot 2025-01-09 235016](https://github.com/user-attachments/assets/7b6418d9-5c8d-4c35-9e4f-6358e22f04f8)
 
 
@@ -112,6 +114,8 @@ Step9: download your "opencv keras model"  in "tensorflow"
 ![Screenshot 2025-01-09 235553](https://github.com/user-attachments/assets/46c66d3c-6c8a-4c8e-809d-fc02754c48c9)
 
 Step10: place the converted keras file in the project directory as "keras.h5" and "labels.txt" in pycharm
+
+
 ![image](https://github.com/user-attachments/assets/ece970bc-b19b-4c9a-b6d7-df5847ea7668)
 
 
@@ -119,6 +123,8 @@ Step11:Now create a file in pycharm as "main.py" and enter the code
  ![image](https://github.com/user-attachments/assets/e814bf48-7522-4fcd-bdec-6dd073e33f79)
 
 Step 12: Place the converted keras in project directory
+
+
 ![image](https://github.com/user-attachments/assets/e11dce01-f458-4ef1-aaaf-4104404d2151)
 
 Now Download mysql application in your web browser such as
